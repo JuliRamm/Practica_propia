@@ -1,0 +1,76 @@
+.screen {
+    border: solid 2px black;
+    width: 322px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 520px;
+    background-image: url(https://i.pinimg.com/736x/3d/a6/b1/3da6b175c4d7ef189bab2d53d1066c77.jpg);
+    
+
+}
+.filter{
+    background-color: white;
+    width: 322px;
+    height: 500px;
+}
+
+.banner {
+    background: rgb(255, 0, 183);
+    background: linear-gradient(0deg, rgba(255, 0, 183, 0.8) 0%, rgba(255, 156, 227, 1) 100%);
+
+    width: 320px;
+    padding: 1px;
+    border-radius: 0px 0px 20px 20px;
+
+}
+
+.Mensajero {
+    font-family: Inconsolata;
+    padding-left: 5px;
+}
+
+.message_1 {
+    background: rgb(233, 153, 206);
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 5px;
+    width: max-content;
+    height: min-content;
+    border-radius: 50px 30px 30px 0px;
+    justify-content: center;
+    -webkit-box-shadow: -7px 4px 10px 3px #000000;
+    box-shadow: -5px 4px 10px 3px #3d3d3d;
+
+}
+.message_2 {
+    background: rgb(174, 153, 233);
+    margin-top: 30px;
+    margin-left: 155px;
+    padding: 8px;
+    width: max-content;
+    height: min-content;
+    border-radius: 30px 0px 50px 30px;
+    justify-content: center;
+   
+    box-shadow: 8px 4px 10px 3px #3d3d3d;
+
+}
+.enviar {
+    background: rgb(121, 39, 117);
+    background: linear-gradient(0deg, rgba(138, 18, 104, 0.8) 0%, rgba(255, 156, 227, 1) 100%);
+    margin-top: 225px;
+    width: 322px;
+    
+    border-radius: 20px 20px 0px 0px;
+
+}
+
+.fa-square-arrow-up-right {
+    font-size: 50px;
+    margin-left: 270px;
+}
+
+.entry {
+    background-color: #000000;
+    
+}
